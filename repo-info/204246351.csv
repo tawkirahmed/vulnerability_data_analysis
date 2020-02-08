@@ -1,0 +1,7 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+tough-cookie,^2.5.0,6a9d67e9b781f1984a0a28690938c94b592deb25,hieuctfe,change-time-call-api,2019-08-31T14:54:49+07:00,https://github.com/hieuctfe/Luan_Tool,YES
+tough-cookie,^2.5.0,0b953b0ba2db3037ffadc9751da4880e9d7eee46,hieuctfe,fix-31-07,2019-08-31T14:02:12+07:00,https://github.com/hieuctfe/Luan_Tool,YES
+tough-cookie,^2.5.0,31bd97f632f9ec51029177faffe8f599ca3d1e84,Cao,API,2019-08-28T10:51:50+07:00,https://github.com/hieuctfe/Luan_Tool,YES
+tough-cookie,^2.5.0,4e9fa67af55cad76e4916a560ee22be0960ecc95,Trung,merge-by-api,2019-08-26T10:27:01+07:00,https://github.com/hieuctfe/Luan_Tool,YES
+tough-cookie,^2.5.0,e396755b8e9e9fbd5e3bd17ff24f4b8894d60aa1,Hieu（344552）,first-commit,2019-08-25T11:52:49+07:00,https://github.com/hieuctfe/Luan_Tool,YES
+tough-cookie,,d44853938910016be19cdf053b061794ea6e2f9c,Cao,Initial-commit,2019-08-25T11:35:12+07:00,https://github.com/hieuctfe/Luan_Tool,NO

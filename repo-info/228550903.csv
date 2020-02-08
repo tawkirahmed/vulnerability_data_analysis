@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+electron,^7.1.5",dcc7a1720ed70dc356664b73ae533de47198163a,Duc,Initial-commit-from-Create-React-App,2019-12-16T23:35:00+01:00,https://github.com/trungleduc/react-chart-editor-electron,YES
+electron,plotly-electron,ac898e45ab624bfb984d592efb1936044a0b2f36,Trung,,,https://github.com/trungleduc/react-chart-editor-electron,YES

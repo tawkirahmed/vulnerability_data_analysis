@@ -1,0 +1,8 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+centra,^2.2.0,8dd0854e24ddac3fe3c672d7134a1ef66173c955,ethanatschool,Updated-greeting-behaviour,2018-12-12T09:29:13-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,26554170eb0c0617090c3d8736ac2f663d616b8d,ethanatschool,Fixing-randomization-of-responses,2018-12-12T09:26:32-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,0b08bb6506a390b612662647e7894125c72adc27,ethanatschool,Lit-update,2018-12-12T09:22:45-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,2f667a4a31c1b93466b10ef755a63e5034f4ecbe,Elias,Update-ai.js,2018-12-11T12:36:19-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,93b555f8306de8b93bb58d1bd0c01ac2d4a405cb,ethanatschool,Revised-priority-of-a-response,2018-12-11T11:41:18-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,bcc334d2fe10d5354ff83535199fe63bf8cc4866,ethanatschool,First-commit,2018-12-11T11:40:10-08:00,https://github.com/FuturisticCake/chatclient,YES
+centra,^2.2.0,b9f577a95923bff0d542bf8505b15db045e9fec6,ethanatschool,Initial-commit,2018-12-11T11:38:51-08:00,https://github.com/FuturisticCake/chatclient,YES

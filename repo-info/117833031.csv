@@ -1,0 +1,7 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+protobufjs,^6.8.4",70249ae8f57dc4789e855bd31faa492b5aaf6c80,Fredy,Refactor-update-examples,2018-01-26T15:39:47+08:00,https://github.com/FredyXue/sy-pbjs,YES
+protobufjs,^6.8.4",dc3fc218caf611e82d2ad2a00cc7f9aef714cec8,Fredy,Refactor-change-version,2018-01-25T22:00:40+08:00,https://github.com/FredyXue/sy-pbjs,YES
+protobufjs,^6.8.4",8f6f69c4158092ac1747aca544eb811812e5d019,Fredy,Feature-support-pbts,2018-01-25T21:59:56+08:00,https://github.com/FredyXue/sy-pbjs,YES
+protobufjs,^6.8.4",b241dbcf7cafcaa3c88369934495428ef0444a18,Fredy,Feature-add-service-method-RequestType-and-ResponseType,2018-01-17T22:59:32+08:00,https://github.com/FredyXue/sy-pbjs,YES
+protobufjs,^6.8.4",14cb59afa204afab022acff0cbd91dfffb75b6d1,Fredy,add-files-from-protobufjs,2018-01-17T20:57:45+08:00,https://github.com/FredyXue/sy-pbjs,YES
+protobufjs,^6.8.4",b49d17391dabbadad59b8b128d3773ebef90c544,Fredy,Create-README.md,2018-01-17T20:27:42+08:00,https://github.com/FredyXue/sy-pbjs,YES

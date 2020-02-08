@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+electron,^1.3.4",c6e9034877fa7b114992dee99c70a44d5d3fa3a1,Kennedy,initial-commit-of-working-login-but-not-logout,2016-09-06T11:45:44+01:00,https://github.com/dankennedy/electron-sso-saml,YES
+electron,^1.3.4",ccea3e86a13c5cbf5eddbd33a08ad685a8592265,dankennedy,,,https://github.com/dankennedy/electron-sso-saml,YES

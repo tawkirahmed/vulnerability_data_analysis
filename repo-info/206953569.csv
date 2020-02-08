@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+tiny-json-http,^7.1.2",5df468acd1d668f0bb9e12615dfa22a8c88b96ec,null,_ci-so-it-Begins,2019-09-07T10:41:56+00:00,https://github.com/R3us/begin-graphql-api,YES
+tiny-json-http,^7.1.2",d7ea8efbe0fdbf45f11db3e01509d0f1b19cbdfb,R3us,Initial-commit,2019-09-07T12:41:54+02:00,https://github.com/R3us/begin-graphql-api,YES

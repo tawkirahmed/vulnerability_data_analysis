@@ -1,0 +1,4 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+centra,^2.2.2,fc97535efcc34a0b97ee37f0151b9526217cd55a,Kanabayashi,Delete-Kana-bot.zip,2019-10-22T09:05:03-05:00,https://github.com/Kanabayashi/KanaBot,YES
+centra,^2.2.2,da58af8cedb69a07e7c476f069ac422202fe8b55,Kanabayashi,Add-files-via-upload,2019-10-22T09:04:33-05:00,https://github.com/Kanabayashi/KanaBot,YES
+centra,^2.2.2,1badaecf131dcba5eb1cc2ce0f190d926db5fc08,Kanabayashi,Add-files-via-upload,2019-10-22T09:00:24-05:00,https://github.com/Kanabayashi/KanaBot,YES

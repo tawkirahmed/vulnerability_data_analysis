@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+hapi,^17.8.1,8a83e314a4a40ce24f8c9e5da86b73802b004b00,wyorsdm,Initial-commit,2018-12-13T14:28:03+08:00,https://github.com/wyorsdm/hapi-server,YES

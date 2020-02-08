@@ -1,0 +1,4 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+marked,^0.5.1,4eed21d3255ceaa89b81d9d81b28b013119be80a,Wickett,Tidy-up,2018-11-15T14:28:52-05:00,https://github.com/mwickett/marked-frontmatter-loader,YES
+marked,^0.5.1,2be678c356bdd5b4800abb680f2b7e720d54df75,Mike,Initial-commit,2018-11-14T16:45:45-05:00,https://github.com/mwickett/marked-frontmatter-loader,YES
+marked,^0.5.1,d637da0d9b47ab5d23963beccb85d9802b7845fc,Wickett,,,https://github.com/mwickett/marked-frontmatter-loader,YES

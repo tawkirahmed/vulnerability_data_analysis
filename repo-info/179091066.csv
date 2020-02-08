@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+node.extend,~1.0.9,795a50e8b480eab8ecd7d51e0fee8de78349e7ca,Lapin,new-chat-node,2019-04-02T15:32:46+03:00,https://github.com/mlapinm/nodechate,YES

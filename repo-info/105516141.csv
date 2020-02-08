@@ -1,0 +1,14 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+coffe-script,0.0.1-security,487461de16e53260788df28c13a79572761e0539,Steven,test-with-a-missing-parameter-on-save-function,2017-10-09T10:17:56+02:00,https://github.com/steven9neuf/ece-nodejs2017,YES
+coffe-script,,1bf7c0997a4f1c1d5da3f57b017b1821c688a434,Wong,set-successful-tests,2017-10-09T10:05:20+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,225ee16232327484d1c03450649e1373c88f1c5d,Steven,replacing-spaces-with-underscore-in-the-name-in-the-package.json-file,2017-10-09T09:56:22+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,d317ed71ab8585354f00c33867ccbf21ffe30352,Wong,replace-the-tabulation-in-travis.yml-with-spaces,2017-10-09T09:54:25+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,8feb420adb278303ef243a1da66e85bd4d97473d,Steven,add-a-dot-in-the-travis.yml-file,2017-10-09T09:49:36+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,abc5618af78b7c33e72fcfcc50ab4e373571d57a,Wong,updating-user.js-and-add-of-the-new-directories-src-bin-and-test,2017-10-09T09:47:33+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,e838a7b7801964f981cd175a656a6c82123aeb50,Steven,add-travis-build-logo-in-the-readme,2017-10-09T09:39:53+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,92c0c688163d64b408369a175a22d647df107396,Wong,add-of-travis.yml,2017-10-09T09:33:09+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,bf382e9f98365d6919dd26aa45130b4038c97f72,Steven,add-gitignore,2017-10-09T09:25:24+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,b6359075b50b88ef441f5eb8340a00e1a2977664,Wong,Update-of-the-instructions-in-README,2017-10-02T11:32:02+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,0eb6c01061397344821a4ffa223e35da5b359ca5,Steven,Added-basic-server-configuration,2017-10-02T11:13:39+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,989bf7b2dd80f56512d6b8415012014ea78b4bbc,Wong,Added-package-definition,2017-10-02T11:12:56+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO
+coffe-script,,3731a3ecc059b1f6513fb4ca14b9377d1cedf25c,Steven,First-commit-with-readme,2017-10-02T11:10:14+02:00,https://github.com/steven9neuf/ece-nodejs2017,NO

@@ -1,0 +1,11 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+is-my-json-valid,^2.12.0,92bf0f5e3b133f8be075ddd58acd16de5746290f,sethvincent,Merge-branch-master-of-github.com-sethvincent-accountdown-model,2015-07-23T15:28:27-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,4fca8cc562cd3fcad32631b9504dcc2558ef2d81,sethvincent,v1.1.0,2015-07-23T15:28:12-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,ad665b994864868bf3c417c85a2242c9b7ca499d,sethvincent,improve-schema-options-create-default-values-in-schema-add-beforeCreate-and-beforeUpdate-methods-validate-update-method,2015-07-23T15:27:43-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,c489054eeb5bcd0f0e5095fca1236ff5805bd5a7,Seth,Merge-pull-request-2-from-LukeSwart-change-password,2015-06-17T10:39:37-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,044e7f9096ea5cb7343c3fedeee35dcd6d5af2fe,Vincent,Update-with-latest-accountdown-accountdown-basic-changes,2015-06-17T10:33:38-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,6083584dfa4e0e0c54eaad063977ed5a70148204,Luke,Merge-pull-request-1-from-LukeSwart-change-password,2015-06-11T10:05:58-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,1978a8d00712949e8cd2eff1a5d909df26bcb38f,Swart,Implement-change-password-feature-for-accountdown-basic-plug-in,2015-06-11T05:25:56-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,f3fb690539569413ebfffa99e727c4e2cc053cea,Seth,fix-typo,2015-06-08T21:09:57-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,c84275aea5de46c138066d2ede11a7d98e0d6850,Vincent,v1.0.0,2015-06-07T23:57:23-07:00,https://github.com/sethvincent/accountdown-model,YES
+is-my-json-valid,^2.12.0,d1ed623db9902e16082205fe22534fed0e1ab49a,Luke,,,https://github.com/sethvincent/accountdown-model,YES

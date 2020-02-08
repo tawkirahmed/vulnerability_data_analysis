@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+fastify,^1.13.0,cdb92dcc4bc419b0ff189ccb3e749b9549c2e389,ajeet,add-files,2019-05-17T18:00:59+10:00,https://github.com/AJEETX/fastify-api-nodejs,YES
+fastify,^1.13.0,462f385de8138bb1ec064a79502bb6af5e58de85,Azy,Initial-commit,2019-05-17T17:58:00+10:00,https://github.com/AJEETX/fastify-api-nodejs,YES

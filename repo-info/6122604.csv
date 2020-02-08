@@ -1,0 +1,10 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+charset,>=0.0.1,d5e9c87f628243c5e75a687f1caca2d269f7e3f8,fengmk2,use-buffer-concat,2012-10-11T20:56:50+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,5e926d9156010571c4254130c68fb813e26aced7,fengmk2,add-logo,2012-10-08T22:16:26+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,a1fdc0b6bd337b63b672ee862dda956ac680c650,fengmk2,add-logo,2012-10-08T22:15:15+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,2961f6e944ead84781bd51b2a98f93bb86ecf9b6,fengmk2,change-test-case-for-redirect-2,2012-10-08T21:54:37+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,15288e9d12dd822dbb0f70ed3e3584d047f78a7c,fengmk2,remove-0.9-test-from-travis-ci,2012-10-08T21:48:19+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,ca0434de2d2e0d1dab3a4ae78c70f50505b8f4ad,fengmk2,add-more-timeout,2012-10-08T21:46:20+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,de6cbb531153867e4896e2d441cf6e18b9ff6a5d,fengmk2,Release-0.0.1,2012-10-08T21:42:48+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,9876cd47e667207f3bce8b60d09773b19beaf5c4,fengmk2,add-first-commit-support-url-and-title-now,2012-10-08T21:42:15+08:00,https://github.com/fengmk2/urlexpand,YES
+charset,>=0.0.1,fbf9bcde061be627523b21872420449abbf0c870,fengmk2,Initial-commit,2012-10-08T03:04:12-07:00,https://github.com/fengmk2/urlexpand,YES

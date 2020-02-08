@@ -1,0 +1,5 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+ibm_db,>=0.0.1,06955bd8dfc064dad57fac15142f0aacb59e9cdf,Hany,added-nosql-connection,2014-07-09T14:39:20+02:00,https://github.com/omarayad1/ibm-server-node,YES
+ibm_db,>=0.0.1,7220f8e16c74f02d57a0ccaf226678603c6891f8,Omar,Finished-node-server,2014-07-09T12:44:00+02:00,https://github.com/omarayad1/ibm-server-node,YES
+ibm_db,>=0.0.1",0f343bc7c074b5562126ae7061413fb4a8319707,Hany,written-node-implementation,2014-07-08T14:42:23+02:00,https://github.com/omarayad1/ibm-server-node,YES
+ibm_db,>=0.0.1",acebfa16e042cf0c7bee14da150b2d2fd9c38975,Omar,,,https://github.com/omarayad1/ibm-server-node,YES

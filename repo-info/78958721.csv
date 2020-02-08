@@ -1,0 +1,11 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+blueimp-file-upload,9.10.4,8cc15e19b221334b4fe7f9422b1094d5602994ed,david.mottet,uppdate-README,2017-01-16T15:12:24+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,94136ac86e412b371299eb63417fd4ea4e843ecf,david.mottet,uppdate-README,2017-01-16T15:02:49+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,a8ff97e8bebdb103ce1dd8d49a8f2c57fbec26ac,david.mottet,uppdate-README,2017-01-16T14:51:05+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,eae4dcc3531aed860ab9aa05ec4d2bd795e77202,david.mottet,uppdate-README,2017-01-16T14:50:20+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,38e4a82f9d40dc7e663774aea173ae3a59842002,david.mottet,test-config-webpack,2017-01-16T14:43:01+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,d1edb4f3f157506013596b626618bc3def933563,david.mottet,index-html,2017-01-16T14:12:41+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,0afd6ac27a1b420c6c5bdf14c8de7c498aae7800,david.mottet,clean,2017-01-16T14:03:41+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,6b853cd5e09d670a7af9c32c47685d5a3a8876b8,david.mottet,init,2017-01-16T13:53:54+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,9.10.4,86cfdfbf31ed89f159c7364fcc617ea6500558bd,david.mottet,rm-useless,2017-01-16T13:52:11+01:00,https://github.com/davidmottet/test-ws-interactive,YES
+blueimp-file-upload,,3048f21bc568c37fdbb030d731198bd2f468f3ea,,,,https://github.com/davidmottet/test-ws-interactive,NO

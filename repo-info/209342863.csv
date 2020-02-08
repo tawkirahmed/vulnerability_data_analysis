@@ -1,0 +1,6 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+sshpk,^1.16.0",51372cb07a5d58ed3231963f70c25efc5a00d2bf,lisawilliams,revising-slides,2019-09-26T11:02:10-04:00,https://github.com/lisawilliams/7Ways,YES
+sshpk,^1.16.0",4299567f8b63ed3b9f221cb1f16767e8f823d958,lisawilliams,updated-readme,2019-09-18T13:29:09-04:00,https://github.com/lisawilliams/7Ways,YES
+sshpk,^1.16.0",11eab8d50581cc5b238d4e2b7e3832f7e14fd997,lisawilliams,adding-slides,2019-09-18T13:27:10-04:00,https://github.com/lisawilliams/7Ways,YES
+sshpk,^1.16.0",2bb124a06904ebf19d6a23428917a007893763fc,lisawilliams,initial-commit,2019-09-18T11:29:49-04:00,https://github.com/lisawilliams/7Ways,YES
+sshpk,^1.16.0",9596ec1bb32ee35b61e6e14cc0a08909b8297d2b,,,,https://github.com/lisawilliams/7Ways,YES

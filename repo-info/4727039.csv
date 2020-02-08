@@ -1,0 +1,159 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+jstestdriver,>= 1.0.x,099f7dbcd49ed6de8b417d1d5721babcc2c3ee6e,alfred,Work-on-handling-of-JSXGraph-sliders,2019-06-21T13:32:16+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,231dafba43220ec7dd770b3b783570a0115696d6,alfred,Add-derivatives-for-cot-and-acot,2019-05-07T14:02:42+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,08c1a4bc4d1fd3aa30be4b7aeda176fcdab69065,alfred,Add-math-functions-cot-and-acot,2019-05-07T13:54:35+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,0c13b8aa550c344b31e4561819ca0ca6281a0683,alfred,Update-copyright-string,2019-01-23T11:04:50+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,e19c9502c00c9f9cb989f52cc6cc7712906cc515,alfred,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2019-01-09T13:55:44+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,86f317b45cb2761779ed94887a1a2f2a905170d1,alfred,Add-new-functions-nthroot-cbrt-binomial,2019-01-09T13:55:13+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,560767afde2106fd5964ef37f1e044bac5b66ac1,Alfred,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2018-12-29T23:57:40+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,94e6d25bd1329649b3a00f6584e6c6e343c54a03,Wassermann,Parse-errors-are-now-handed-over-to-the-application-and-can-be-catched,2018-12-29T23:56:26+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,8a77227e584ecf6999a0a1939796eb2a01d9ec42,Alfred,Update-README.md-make-is-used-instead-of-make.py,2018-12-20T11:37:18+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,ddf49aa580e65131baa990480303efd170b59735,Wassermann,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2018-12-20T11:35:37+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,86535c9f72f56d0b96781f67805001c67d09c6a4,alfred,Use-JSXgraph-method-JXG.Math.pow-for-a-b,2018-12-20T11:34:30+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,3da5062fdb9c2c07af384ecb45534b43869448ce,alfred,https-links-to-jxsgraph-and-sketchbin,2018-11-24T07:26:57+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,d7796666b205fda0f445574e9c467802d31d05ba,alfred,There-is-no-reason-to-treat-parse-as-a-private-method,2018-06-20T15:15:39+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,ffff42bfb1cb5f8cd86b786a2e490d3a30f8da56,alfredwassermann,Update-nodejs-dependencies-for-building-JessieCode-parser,2018-06-15T11:38:25+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,>= 1.0.x,29ed24155452b1f22d4997cb099814df121041e7,alfred,Add-JSXGraph-s-gcd-and-lcm-math-functions,2018-04-18T11:40:41+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,fa2d5a32f7505366bd9131d3d4d6560a22ce7477,alfred,Handle-nodes-in-collectDependencies-which-are-arrays,2018-03-14T11:27:29+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3d31c6d11a737fc22311eb4ca79ffa614111ecf8,alfred,Add-ignores-in-docs-strings,2018-02-14T10:23:04+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a012171ceec24cd35f6968429f1f283e39e62dac,alfred,Remove-trailing-comma,2017-11-24T13:37:54+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,4e76318703251addad8119020edc738be0afae22,alfred,Catch-error-if-input-contains-sin,2017-07-17T14:51:01+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,70cd0ee87840627d27d45e52d8a3660fc7d50c9b,alfred,Unify-code-for-manipulate-parse-and-getAST,2017-05-09T15:06:25+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,906873202a20182d0258063539cede0cc831c5d0,alfred,Add-method-getAST,2017-05-03T17:38:04+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,62bb4c2257e5427a93fdb2c3ab339b48595782cc,alfred,Prohibit-access-to-function-properties,2017-04-04T18:48:17+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1958d0a6d39a98c3e4664d956cc0177844217b5b,alfred,Undo-the-last-commit,2016-09-21T15:11:43+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,0a7884d7c5412937fd061e008000faa51e4907f0,Michael,Try-to-allow-expression-like-sin-a-where-a-is-a-slider,2016-09-21T15:10:08+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,c8ec3001990a5784ee48466a03edd1e763c4c77a,Gerhaeuser,Bug-fix-handling-of-node_var-of-type-slider-in-an-expression-of-the,2016-09-21T13:50:04+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1ca915d3fe5b0318997f9e687c24499e889cd4d1,alfred,Allow-maps-of-the-form-map-x-a,2016-09-21T13:32:28+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a9d949839feec0c14b2410dfc55fffaae920ec66,alfred,Add-docs,2016-09-20T12:39:09+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1b195ba9f777142f2a171816bd893b575ce6ed89,alfred,Set-isMath-for-node_const-having-number-values-to-true,2016-07-27T15:15:40+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,791d540b2a19b53329d170ca3e6fa7f8f9119875,alfred,Bug-fix-parameter-order,2016-07-27T10:40:15+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,200fd166b08865930ea16823f45be2bf68a60a59,alfred,Bug-search,2016-07-27T09:56:26+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,dc615d33ddde76e958f602db72974136d2212424,alfred,Remove-infinite-loop,2016-07-26T17:33:13+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,89c33fee22483f1c1b9117c2a0be48e88c273d89,alfred,a-b-a-c-a-b-c,2016-07-26T17:18:06+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,8547c23f67583ffaee5df2ab97d8be11c957e35a,alfred,a-b-c-a-b-c,2016-07-26T17:16:31+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a83836153f33ec39949d12957d5db2d6b2c9c649,alfred,Remove-parameter-order-from-derivative,2016-07-26T16:51:51+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,78f988ac498a5edf7e5b176384a6d6188170e82f,alfred,Extract-common-factors-in-add-and-sub,2016-07-26T16:44:44+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,dcf5f9184bd9764ed904a51125a6dba346eabd2f,alfred,Test-i-CA-is-present,2016-07-26T16:17:46+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,2710e9fac831ed8b791b86a88bb44313d2ac3967,alfred,Separation-of-interpreter-and-computer-algebra-part,2016-07-26T16:14:27+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,eecac9c339ecfef59857b6b8ac418c9133031a6c,alfred,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2016-07-26T15:56:33+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,441488097e1986ecca667a2bca48e65c715e3b49,alfred,Start-to-split-original-interpreter-and-computer-algebra-part,2016-07-26T15:55:55+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,87b9bfd91973dd715185f1c9bdce8a2eae726908,alfred,Test,2016-07-21T16:22:24+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,6268849ea0daf143a23a430f299fc3a72e3ad7f9,alfred,Simplify-a-a-a-2,2016-07-21T16:16:37+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d4a18485d948d5cfb540b6d668bd613fa6bd6876,alfred,Simplify-constants-in-op_mul,2016-07-21T16:10:52+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,7a90c47f127a864bc9483194511f98afa10feaa5,Alfred,Add-simplications-of-a-a-b-and-a-b-a,2016-07-21T15:31:05+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,45e2c4600230eac7a5c5a1e4bff575d017d8f8b5,Wassermann,Do-not-reuse-nodes-in-derivative,2016-07-21T15:22:47+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,f48140762b5e8da0bc5188245ac9833f379941ff,Alfred,Do-not-reuse-nodes-in-deriveElementary,2016-07-21T15:18:32+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,ea3a60aaa94ec4695853b41daf5df52c30d346f9,Wassermann,Simplify,2016-07-21T14:42:45+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1c5e7d10a18d82a2601208b4568285e0ab770aec,Alfred,More-simplifications,2016-07-21T14:06:01+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,be59dd778cc29950f3ae3c3e3fbe928347da9243,Wassermann,Remove-console.log,2016-07-20T15:52:58+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1bd80c55a083f9da7c39778468c3938f3047f08d,Alfred,Bug-fix-again-0-a,2016-07-20T15:47:45+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,122a28ef408a5ecfe20d014c5699ebd9c58f4b77,Wassermann,Bug-fix-simplify-0-a,2016-07-20T15:36:12+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a323a3855e41475e596e5b1bbf712e06d1303e28,Alfred,Enable-order-of-D,2016-07-20T15:14:16+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1f56b65ccb2aac76f4a4b8a42203ff54d59f2e60,Wassermann,Simplify-nodes-below-of-a-op_execfun-node,2016-07-20T15:01:30+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1e40da32ef91e24e869e5bcd121b6f928b3dc65d,Alfred,Add-new-method-manipulate,2016-07-20T13:41:08+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,2ab9c6d3705de4e60a85cca515d8808fcd0d2ad0,Wassermann,Bug-fix-map-x-x,2016-07-20T13:01:29+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,5612b079fdf8b4d275f17b6efd20df6c5df222f3,Alfred,Simplify-div-with-1-in-numerator-in-mul,2016-07-19T16:29:28+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,2cf70d474ccc2f5b39d83d5f87001afed4092263,Wassermann,Simplify-div-expressions,2016-07-19T16:11:36+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,e1459f82fbd5d102c698e080ca6398fa4be0e3d6,Alfred,More-simplifications,2016-07-19T16:00:50+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,ff107b0f494ff56674311876f11d3f54d850804c,Wassermann,Simplify-trivial-sin-and-cos-calls,2016-07-19T15:15:44+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,de3ec3efc55e7a08199521bbfd7ff2e137b7cf9c,Alfred,Bug-fix-typo,2016-07-19T14:42:45+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,88d75ae082c222da0a7f2383890d7de374888e9f,Wassermann,Bug-hunting,2016-07-19T14:38:49+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,77cf76f2493c66a53afd784e2d23ce0c55999924,Alfred,Refactoring,2016-07-19T14:19:22+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,520fafb93b9e8e77072d6d77a5a16581cc5ca1f2,Wassermann,Refactoring,2016-07-19T14:07:05+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a766f70ca169c06e9ce988d4a1d049b588fb61aa,Alfred,Typo,2016-07-16T23:17:21+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1382d9dd45f8b300234e2c52f78ed83bca7ad788,Wassermann,Refactoring,2016-07-16T23:06:57+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,14faad2035eb15f55ff4d9647ddff02bd1467c68,Alfred,Simplifactions,2016-07-15T20:28:13+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b71137b0b5c9877e10cf18adba81409ad5e71ff1,Wassermann,More-simplfications,2016-07-15T20:20:23+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d7f510d5733e92d88ab3a64ae5867d10cbf7cc8b,Alfred,Remove-trivial-node_op-nodes-like-0-a,2016-07-15T19:25:46+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,7631c084db6b18ce29789e5a328d8a8da9749f75,Wassermann,Allow-more-flexible-use-of-derivatives,2016-07-13T15:39:08+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1116bfdd12733f8219948a957e24386664aefd9c,Alfred,Derivative-implement-pow,2016-07-13T11:08:36+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,2a0556168aff135bbc82fcf82f62d2ef661bc380,Wassermann,Derivative-allow-D-f-D-f-x-and-D-f-x-1,2016-07-13T10:40:52+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,fbfecef76245e940be3ab59928a600152916bb69,Alfred,Derivative-Implement-more-elementary-functions,2016-07-12T23:42:05+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,90b4fc4f2bc21e0abeb2d01559bd662abdb5b677,Wassermann,Bug-fix-derivative-op_div,2016-07-12T22:17:56+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3e01296ee76345405a5091cfbfe97876433c4e67,Alfred,Bug-fix-derivative-op_exp,2016-07-12T22:10:43+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,c2294d833d9f979da7299b3dfd1131021b68d183,Wassermann,Read-variable-name-and-order,2016-07-12T18:18:29+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d8e6d7cd2ac3067e75d3baabd88f2ac2b1522103,Alfred,Derivative-set-isMath-true-fornew-nodes,2016-07-12T17:47:47+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,f6cfc3f04f0e1333dbb6974888e78637d241e4f7,Wassermann,Derivative-add-sqrt,2016-07-12T14:58:05+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,def8c19ce19e0c2c622ca2d569547b859af9d4b8,Alfred,Derivative-more-elementary-functions,2016-07-12T14:35:44+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,60dcbafac20487a749a566f181bc484169cbe345,Wassermann,Derivative-more-general-exp.-rule,2016-07-12T13:50:00+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,bba03724124aec87ddb8110ea9d83d240fbda108,Alfred,Derivative-first-part-of-op_exp,2016-07-12T12:04:19+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a36a83567dcfff70c922cff6891b6259aebc3aa9,Wassermann,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2016-07-11T23:14:52+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,720cb3ab5e774206dc0aa3b11dbf04619479cf06,Alfred,Progress-on-derivatives,2016-07-11T23:08:50+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d4982618fdb2283a4ad4f3768db21107ab3251c3,Wassermann,Progress-with-derivatives,2016-07-11T16:14:25+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,59db1cc22a315f5e33010c495f2c4f40d7d19836,Alfred,Fix-previous-commt,2016-07-11T15:16:41+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d7e770bcc318a2070619ef9b8c0b5a488e5d2383,Wassermann,Work,2016-07-11T15:03:55+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,0fcc608006864ca00a5be8a7b392d401f85075e8,Alfred,Work-on-derivative,2016-07-11T14:53:27+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,cd9b9c4bb4ab72f7743c8362bfeec70b4f5d30d1,Wassermann,Work-on-derivative,2016-07-11T11:35:45+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,04d2043a4489a77e038b490cc1f0662ce9ada79a,Alfred,Work-towards-symbolic-derivative,2016-07-08T12:53:58+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,fb00e2a0529e1aa1a3717ce5045bcbe14a4039a3,Wassermann,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2016-05-20T13:51:07+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,932222db7b285256d42cccf9e367ac9268a0176e,Alfred,Make-jessiecode-work-in-IE6-8,2016-05-20T13:50:41+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,08f524c8671f169ed0938eccb4e3e173b7bd06f2,Wassermann,Add-an-example,2015-12-08T18:21:30+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,29fd41c9b1bdc7f6f0847b7de24ab96245a66766,Alfred,Migrate-changes-made-in-the-JSXGraph-repository,2015-12-06T19:28:19+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a6f0ec90e75b15f7a5cb4c020be0305cab4d2c77,Wassermann,Add-.idea-folder-to-gitignore,2015-12-06T19:17:36+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d565d3fa2aafc69f3f95d59ac1f6affd030cdcdd,Alfred,Remove-obsolete-and-unused-variables-parameters,2015-12-06T19:17:22+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,6c601061dd38ae78c675f95117eb31936ec10e73,Wassermann,Properly-resolve-variables,2015-12-06T18:51:52+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,8145ae30d81fe692f4900fb8a6d863f0a883830c,Alfred,Repleace-OBJECT_TYPE_TEXT-by-OBJECT_CLASS_TEXT,2014-09-23T11:38:00+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,0cc503bf9a82b9fcd7ae0305b3993e31aa4ab1f6,Wassermann,Enable-log-x-b,2014-07-24T10:58:42+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3e67b6f8898634739014bf1a2856707c3c11891b,Alfred,Merge-branch-master-of-github.com-jsxgraph-JessieCode,2014-05-19T13:39:38+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b4396ec04f12484ee614e81448b51d28bce7428c,Wassermann,Add-sinh-and-cosh-to-JessieCode,2014-05-19T13:39:00+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1607c2cddecf3cee56ce7d0b8e3012878e0cd339,alfred,Also-store-the-end-pos-of-the-node,2014-03-22T22:59:10+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,af408c3e355bd3ce001fb04d2944747a6462e3fc,alfred,Add-lg-x-ld-x-ld-x-log10-x-log2-x,2014-02-27T17:23:26+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,16102ff08f5758bcd33315961b2a1e7aef9243cf,alfred,Change-priorities-for-Math-Builtin-symbol-lookup,2013-11-27T10:58:19+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,6fc70c751cd30b0e60cebdcbcc98506de1e7783e,alfred,Fix-typo,2013-09-19T10:53:48+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,830a220e07095e195f580612ef73193a90d6e6a8,alfred,Remove-obsolete-file,2013-09-19T10:50:50+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3f9f280d7dd2bac70a53f5eef094bb6df030f84a,alfred,Add-tests-for-the-operator,2013-09-18T15:25:14+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,924ffa408987fb77e3d93100a18027f811ae71f0,alfred,Define-operator-precedence,2013-09-18T15:24:58+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,84f5a08d924184bfce7288ea87ce3973be4b26dc,alfred,Fix-unary-minus-precedence,2013-09-18T09:17:26+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3603e6d6ea273c513802e70fc814de53b274b5c1,alfred,Add-target-jsxgraph-as-a-dependency-for-target-test,2013-09-18T09:15:40+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3cffa0569c52d76d300412d62c9a72fd439d1737,alfred,Extend-operator-to-concatenate-strings,2013-09-16T16:06:56+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,db0a0e0e01cc921a31aa50c0d85f5657080cf0ad,alfred,Add-dangling-else-test,2013-09-16T16:06:49+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a9dcb97834929f3d365c17b531eb8e81a5564923,alfred,Reimplement-arithmetic-operators,2013-09-16T13:46:43+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,bc6006054f40d19bed980e42bf426305c675f781,alfred,Fix-the-test-suite,2013-09-11T15:45:00+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,6d08273de80b69aee242645b0cfef302d40a6503,alfred,Implement-the-delete-operator-as-a-function,2013-09-11T15:44:28+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,fc1994725419bbba8cbc1a103d66cf8018d6ec44,alfred,Fix-string-literal-parsing,2013-08-21T10:13:11+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,3349f528054d1b28fb09c0796f20bba82dbc017b,alfred,Fix-the-scope-implementation,2013-08-08T14:42:12+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,0c053de0c8cb763e08fc7352a62e91f928308865,alfred,Fix-a-typo,2013-07-31T09:15:09+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,62a9f36488f71ebe7b113a13454e3202b902a8dc,alfred,New-builtin-function-import,2013-07-30T14:06:01+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,502a1d59042d3c6b50536417b58030579f96f83c,alfred,Remove-obsolete-plist-property,2013-07-18T13:25:12+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,1b823ddeb496031f3d5315239aac1bf59d9c5cfb,alfred,Remove-several-debug-output,2013-07-18T12:17:19+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,c63e60e72f1a77a612fc7b95bf1e5055fd183282,alfred,Fix-a-bug-in-string-literal-compilation,2013-07-18T12:13:31+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,017e4f59a433c2d358b14799f19b050e2fbbacd1,alfred,Compile-functions-to-JavaScript-properly-7,2013-07-18T11:52:08+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d4d2b6456bec4dcdfbb11bb2cb2ab8b53022a17d,Michael,Proper-implementation-of-scopes,2013-07-17T14:34:02+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b903c7885b0d1e2a8741b8b92080801655f19a83,Gerhaeuser,Resolve-an-issue-with-browsers-that-don-t-support-Object.getPrototypeOf,2013-07-02T12:55:43+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,afb9ea7a8426dc9403c87c0c350528b80f09ac58,Michael,Implement-parsing-and-compilation-of-maps,2013-06-28T13:52:36+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b2df706fd1b20326d89b254b4ee7d7e92517852c,Gerhaeuser,Implement-grammar-part-for-maps,2013-06-27T21:06:10+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,e81f2f4dc004d8ecfc06a42fa558b5ef769c8129,Michael,Add-proper-existence-check-in-setProp,2013-06-27T12:43:55+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,058e31ab9f05ff869a1f12c2f8b38d7ec790614c,Gerhaeuser,Add-missing-return-value-of-the-interpreter-factory-function,2013-06-27T11:57:17+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,91c1f22de93ed540fbab2ea2212325dce26fe091,Michael,Allow-setting-properties-in-methodMap-directly,2013-06-26T15:28:09+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,ef27673ca5959b2f51a4b512a2465dbe008c1f3d,Gerhaeuser,Remove-comma-separated-statements,2013-06-26T15:27:28+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,5713a522fadc2c6ab0d80a9102b6f0fc8c2dece8,Michael,Fix-compilation-of-op_function,2013-06-20T16:08:31+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,56751df57493cff899b190ddaa291fbfca87cee5,Gerhaeuser,Fix-bug-in-replaceIDs,2013-06-20T14:14:51+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,f3a0ffa1c3a81b076d0a98a0a91f875ac7a9c2b7,alfred,Replace-console.log-with-_warn,2013-06-20T12:52:02+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b28c9152ee60c0f6d2cc231d86fa399688844688,alfred,Fix-createReplacementNode,2013-06-20T12:42:26+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,2187618b3083e0762bf3de5fdd57574ec9aa1365,alfred,Remove-map-operator-and-the-rules,2013-06-20T10:54:45+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,28a7f4d54e2344b439411bb07169032458916b98,alfred,Remove-debug-output,2013-06-19T15:51:40+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,b07e4c489c37ccb15f8d96438473e7c5a6ac5fd1,Michael,Replace-make.py-with-Makefile,2013-06-19T15:49:33+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,a60d93852179f7fe9bc39da8165e0208e5f10ca4,Gerhaeuser,Fix-chained-assignments,2013-06-19T13:02:56+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,79c9622acbcfcb4cc21de1ab3995277ed411bb9e,alfred,Extend-the-grammar-to-parse-maps,2013-06-19T09:29:21+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,e472c0df037a1f2bbae6d0c064bb4af01ddf98d3,Michael,Fix-unary-minus-operator,2013-06-18T11:00:14+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,bd5762ee6b10e22f3ef41d0f79700eb7836757d1,Gerhaeuser,Remove-unused-nodes-from-the-interpreter,2013-06-17T16:23:23+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,898505cd6424b6d0a5934be076250e02f19ae559,Michael,Fix-several-bugs-related-to-the-ParamList-ElementList-changes,2013-06-17T11:27:36+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,ff7fb189374d4e5be3e0351c8ce33b0c07d0fc50,Gerhaeuser,Remove-now-obsolete-utf8-handling,2013-06-17T10:10:56+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,7976adfcb8f7b0177007d719f06a0a2ca636abcb,Michael,Finish-the-grammar,2013-06-17T09:33:49+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d036fee72d65baef83042bc18675a22d7569b3e0,Gerhaeuser,Tracking-a-bug,2013-06-17T07:46:40+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,733b57a75c6e5f51782ade74b93cd30759deaad9,Michael,Rewrote-the-grammar,2013-06-16T13:16:10+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d3cfe619bbcf2b7ae3c4e210741fb0f7379043e2,Gerhaeuser,Use-the-new-parser,2013-06-15T20:44:05+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,d8f1151405f44f741dde08b12995e447ff45fffd,Michael,Add-jison-to-package.json,2013-06-14T15:37:41+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x,bd7f4f189fc427a222464ccea86f333661524b1b,Gerhaeuser,Start-with-the-conversion-from-js-cc-to-jison,2013-06-14T14:28:17+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",bb8167f88a310fb0e604780ce57389990f17b640,Michael,Add-precedence-and-associativity,2013-06-14T11:47:03+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",9f6d13c969f1d5525853c97db7a828c8ead75b16,Gerhaeuser,New-example-to-test-conditions,2013-06-14T11:46:27+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",4911c3a7cdfa1100f3c6ec2be9f92778becefe04,Michael,Fix-the-make-script-to-compile-the-code-into-an-amd-module,2013-05-27T19:46:55+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",b9be729ef6ebe429999c345a52292436fdc831a9,Gerhaeuser,Add-node_modules-to-gitignore,2013-05-27T19:23:59+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",9b768f2751050c50dc1a400bb402f5b53bda905c,Michael,Adjust-the-JC-parser-to-use-GeometryElement.label,2013-05-15T12:05:51+02:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",40048092bd7407b936ea5b418c5fe2390c01a41d,Gerhaeuser,experiments-with-arithmetic-functions-and-sliders,2013-03-01T20:05:56+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",64bce7708721cf35e479d1428a9ce3861e2b79df,Michael,wrap-pow-too-to-enable-direct-usage-of-slider-values,2013-03-01T14:13:21+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",d78990023b3486b7d316864b25da3b2cc4d3a5b6,Gerhaeuser,implemented-conditional-operator-and-internal-function-IfThen-both-do-the-same-thing-return-a-value-based-on-a-condition,2013-03-01T08:52:08+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",1709fb23e9d5092c1f79e45e96970a1e503cbf40,Michael,bugfix-jessiecode-re-add-missing-return-statement,2013-03-01T08:50:41+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",d43ef855f139dfa5620af3d281cb2b36fdf7d17a,Gerhaeuser,add-package.json,2013-02-24T23:18:24+01:00,https://github.com/jsxgraph/JessieCode,YES
+jstestdriver,1.0.x",f65e64930b96ba6104c48c84ecf930c0f8341eb6,Michael,finish-amd-for-math,2013-02-18T10:13:36+01:00,https://github.com/jsxgraph/JessieCode,YES

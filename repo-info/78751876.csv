@@ -1,0 +1,9 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+sync-exec,^0.6.2,0ff76fd162ece120a7f6536665891bbbaca5ed28,Niskanen,v4.0.0_public,2018-10-08T12:07:56+03:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,ee02371391e56b854460d90e867a73d1e78f2f92,maestro,v2.2.5_public,2017-09-28T14:20:08+03:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,a297f56220a912e563c94684ff4fcbdbe76e5c83,maestro,v2.2.4_public,2017-09-01T12:42:37+03:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,120e77a9a8c44978307e86f00ad7ae82010835f9,maestro,v2.2.2_public,2017-08-22T15:41:13+03:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,4453d71b3d04cf11c556430a37e10ef9a582718b,maestro,v2.1.13_public,2017-06-07T15:14:19+03:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,cd0a5e7dfcc235294498c074c289bca81d59c3dc,maestro,v2.1.8_public,2017-03-16T12:31:50+02:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,383fb07aa0826588a5976d77770ae76674e4dab3,Jari,v2.1.4_public,2017-02-23T19:56:18+02:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES
+sync-exec,^0.6.2,d4bd0ee0efeeed25df3398cee482e8f99dde368c,Pehkonen,Initial-commit,2017-01-12T16:08:22+02:00,https://github.com/vrk-kpa/e-identification-fake-vtj-public,YES

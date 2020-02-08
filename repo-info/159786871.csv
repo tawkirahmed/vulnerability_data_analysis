@@ -1,0 +1,12 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+csv-parse,^4.0.1,a5fe2f5ac57ee62c97fb1eb311dbbd8a2df8ed3c,suXin,instead-of-scraping-and-processing-focus-only-on-scraping-postponing-better-processing-code-and-database-normalization-for-later,2018-12-02T20:44:23+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,^4.0.1,18b9d5b4039200bf3e2e34a3069c12b91e26a544,suXin,stop-scraping-in-case-of-error-to-prevent-spamming-requests,2018-12-02T13:57:02+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,^4.0.1,b05a7b8bb96ba4e3fb16f6e289953a3aae9e10f4,suXin,fix-crash-when-getting-malformed-csv-stage-data-with-both-LF-or-CRLF-and-also-with-divide-by-zero-warnings,2018-12-02T13:54:48+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,^4.0.1,7dfa12cc819f69a610727715e6d86bd6cc7fccac,suXin,damage-control-on-missing-driving_ids-mapped-to-tournaments,2018-12-01T02:58:22+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,^4.0.1,3f5a7908bafc68a16c04cfed8625223a1c3344cc,suXin,use-csv-parser-library-to-account-for-quoted-values,2018-11-30T17:13:59+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,^4.0.1,8197a943337501047a56da53ada4cb07be669747,suXin,fix-incorrect-flag-for-opening-page-file,2018-11-30T15:54:59+07:00,https://github.com/suXinjke/RBRCZScraper,YES
+csv-parse,,468f4d85f6ad051cc227c88d98335fc709cc810e,suXin,output-errors-to-stderr,2018-11-30T15:47:42+07:00,https://github.com/suXinjke/RBRCZScraper,NO
+csv-parse,,3b8cc426deefd64ee1174b508ca5e23b0b3c9f52,suXin,skip-getting-info-on-already-scrapped-tournaments,2018-11-30T15:38:52+07:00,https://github.com/suXinjke/RBRCZScraper,NO
+csv-parse,,3fb6adec9033197cff9ef12b810245bf59107186,suXin,edge-case-for-leg-parsing,2018-11-30T15:33:37+07:00,https://github.com/suXinjke/RBRCZScraper,NO
+csv-parse,,8ba9d32a4aa2f4816315afb924e9492dd3071168,suXin,init,2018-11-30T14:56:51+07:00,https://github.com/suXinjke/RBRCZScraper,NO
+csv-parse,,e51e55c27447bb10a7ecfcc8e2e2b86727953e96,,,,https://github.com/suXinjke/RBRCZScraper,NO

@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+hapi,^18.1.0,9961d3229213aab9125109a5bdfc0ce75fb78433,fgk,Initial-commit,2019-02-22T10:51:51+08:00,https://github.com/guokangf/hapiJs-demo,YES

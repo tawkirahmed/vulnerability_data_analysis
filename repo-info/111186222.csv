@@ -1,0 +1,4 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+morris.js,^0.5.6,0e1991faefb1ce62eea56119adfd797b49c3786f,KofHome,add-phonebook-component,2017-11-16T22:50:50+08:00,https://github.com/llenroc/BookLibraryAngular,YES
+morris.js,^0.5.6,2ed52809fa45c40dd90ab2c13c72f0007a74fd62,KofHome,.gitignore-.gitattributes,2017-09-25T22:31:03+08:00,https://github.com/llenroc/BookLibraryAngular,YES
+morris.js,^0.5.6,f566ad23f0bbadf4202e86f5e49d38a64e14fa95,KofHome,,2017-09-25T22:30:41+08:00,https://github.com/llenroc/BookLibraryAngular,YES

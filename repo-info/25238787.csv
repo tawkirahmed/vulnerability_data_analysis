@@ -1,0 +1,9 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+nunjucks,git,cd879c40693792ba9f3a49c80631109abb65b804,Tidwell,Stating-the-facts,2014-10-15T14:56:08-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,7a1b3a891b1e52d6594ebda6b6355088ef653ef2,Travis,Adding-yeoman-installation-and-configuration-options,2014-10-15T14:55:06-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,a77c13eb39cbe52317d228bda628c7b5938db860,Tidwell,Updating-the-package.json,2014-10-15T10:16:25-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,368674ad40db8b901c2218facbd58d71785717b5,Travis,Doc-changes,2014-10-14T23:28:33-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,7c22e27612a3d4a17c237f31f66d3f894a2270ef,Tidwell,Doc-changes,2014-10-14T23:27:54-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,9f1d32f0409900af07cbede36281e8b792a52b18,Travis,Fixing-docs,2014-10-14T23:25:58-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,e76e3f6e39927bc1c499cf4035b2e31d8d12b2d5,Tidwell,Initial-commit,2014-10-14T23:23:12-05:00,https://github.com/travist/juckstrap,YES
+nunjucks,git,40cee791318358eb152d53aceac4231656ec7026,Travis,,,https://github.com/travist/juckstrap,YES

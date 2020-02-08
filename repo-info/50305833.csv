@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+ecstatic,^1.4.0,ce8d67623fc937d9e25819f2852e6bcf4f093265,Burden,lol,2016-01-24T15:13:07-05:00,https://github.com/jekrb/warrywarez,YES
+ecstatic,^1.4.0,93925e0f44b9d1af9987b7f7317561fdd77d0ab4,Jacob,,,https://github.com/jekrb/warrywarez,YES

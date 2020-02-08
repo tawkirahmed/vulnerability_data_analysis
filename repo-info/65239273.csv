@@ -1,0 +1,16 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+aerospike,^2.2.0,31a1dd8761f22dcf2407c7297400593f7445213e,bat_coder,Updated-example-files,2016-08-23T01:22:43+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,fbcb0e4c7dbe8395d5842fe2e6141399cb0e6ec6,bat_coder,created-an-npm-module,2016-08-19T00:44:08+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,0354161f818a0a411c3da05c8103fc893087d25b,bat_coder,Bumped-v0.0.1,2016-08-19T00:24:47+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,d854840063538d184ae817e1b7a45f3b55d0c24b,Gavin,Updated-readme-with-new-info,2016-08-18T13:54:17+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,b4468d172ad56056890219e96f2d9ff8a092e418,D'mello,Added-some-more-data-in-the-readme,2016-08-15T12:42:07+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,ddce79d2e65ae6bfd3e575011cc65d62571ad906,bat_coder,Added-checks-if-records-are-deleted-accidentally,2016-08-14T19:55:30+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,3e4b116af6bc6e792a00376b74ab2c07ae7d39c7,bat_coder,Changed-the-Readme,2016-08-13T15:43:19+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,98fb0c6f6be40f783a557495b625a0b04d5060f2,bat_coder,Resolved-minor-bugs-and-release-event-loop-change,2016-08-13T15:19:23+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,b6e2cab59b7eb9b36a62780781777237378ba153,bat_coder,Modified-array-to-object-for-simplicity,2016-08-13T12:31:00+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,b388add1c208d2811aa74fc41e6deec863f5d74e,bat_coder,added-a-few-changes-to-handle-a-case,2016-08-12T02:31:05+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,947d85add86e160a43c4079d3120ee973333217d,bat_coder,changes-for-aerospike,2016-08-11T03:19:18+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,f404b25f165eddb5d44d0da4136e15ce6c9f355c,bat_coder,Indentation-changes-according-to-standard-js,2016-08-11T00:58:59+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,d2427433e91ba6a870ee0fffe32329d872752c3c,bat_coder,changed-readme-to-avoid-confusion,2016-08-09T02:43:03+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,a956331676135850e1f98f3202a7367d7557a8d7,bat_coder,First-commit-for-mq-emitter-based-on-aerospike,2016-08-09T02:39:45+05:30,https://github.com/GavinDmello/mqemitter-aerospike,YES
+aerospike,^2.2.0,b55edca3a0fa81927c12fc4d7998c565709fb4f8,bat_coder,,,https://github.com/GavinDmello/mqemitter-aerospike,YES

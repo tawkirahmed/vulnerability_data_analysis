@@ -1,0 +1,7 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+closurecompiler,^1.5.1,92d73fa306a0b84e942b161eb8fec4a8ac8a3d76,Jackson,a-simple-j-env,2014-12-19T21:12:19+00:00,https://github.com/jackokring/node,YES
+closurecompiler,^1.5.1,a4ea59f890f007b628f6cd36fb9d42a2b6557d26,Simon,dependancies-but-not-json-done,2014-12-15T20:17:23+00:00,https://github.com/jackokring/node,YES
+closurecompiler,^1.5.1,e8415342c0c2da2559c206c1e72b04c573cfa675,Jackson,qs-instead-of-querystring,2014-12-15T17:59:42+00:00,https://github.com/jackokring/node,YES
+closurecompiler,^1.5.1,505d0e0d046f86b6ac8b97daa2a67ab0c74a3049,(Netbook),post-vars,2014-12-15T17:16:56+00:00,https://github.com/jackokring/node,YES
+closurecompiler,^1.5.1,353102586b194bbd8e4f4552b2b347e604168f44,Simon,my-node,2014-12-14T20:43:19+00:00,https://github.com/jackokring/node,YES
+closurecompiler,^1.5.1,137b28f81fa7692cd8b3d2dd4e102d6952f09f08,Jackson,,,https://github.com/jackokring/node,YES

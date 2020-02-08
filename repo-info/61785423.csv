@@ -1,0 +1,10 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+hostr,cd test && hostr",4492162e9fde18a4c008e3d4d7ebd4c6d937bd54,Allen,fixed,2016-06-24T15:39:30+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",7f37896f0a519532ff65b8bfcd660bb1903d09e7,Aron,fixed,2016-06-24T15:27:39+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",e9cc08e6b628327618463ce862132028e886f3a6,Allen,fixed-stylematic,2016-06-24T15:26:21+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",1c77aca8bf61db285c2ceaca6d37612c6cf64b80,Aron,fixed,2016-06-24T15:23:50+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",119329a8212910f1c8d7596211f399959686d466,Allen,fixed,2016-06-24T15:22:54+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",05841f1d65fd2b0dd46800a2e1b3d636491c9486,Aron,fixed,2016-06-24T15:21:40+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",0632a973c63569f12fdf6e30a7f405bf4fcd4690,Allen,initial-commit,2016-06-24T15:10:11+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,cd test && hostr",6dd1db3ecf6af1d5459db9f7cedd6037bb3b24db,Aron,initial-commit,2016-06-24T12:57:59+02:00,https://github.com/aronallen/snabbdom-stylematic,YES
+hostr,,a807663242be6ca31aeee12f37ce25d8ae3a059f,Allen,Initial-commit,2016-06-23T09:45:16+02:00,https://github.com/aronallen/snabbdom-stylematic,NO

@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+i18next,^10.11.4,fdf58684e40f8396edbd7dff464ede5f004c868f,VACincoming,login-with-translate,2019-07-29T18:26:00+03:00,https://github.com/VACincoming/fialka,YES
+i18next,^10.11.4,eab7a2baa786593f709572391939c3deee93d062,VACincoming,first-commit,2019-07-29T18:25:18+03:00,https://github.com/VACincoming/fialka,YES

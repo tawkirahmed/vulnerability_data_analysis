@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+url-parse,^1.4.4,2b4b98249ceb47b7eac803b2ae04c970885d7ea4,codermarcos,new-adding-types,2019-03-26T17:41:23-03:00,https://github.com/codermarcos/jogo-da-velha-api,YES
+url-parse,^1.4.4,61a63953e92ea90be90371ff97ef5dbb8188328c,Marcos,Initial-commit,2018-07-22T18:57:49-03:00,https://github.com/codermarcos/jogo-da-velha-api,YES

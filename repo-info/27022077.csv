@@ -1,0 +1,16 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+negotiator,^0.4.9,bb99d8cfd3a8ad38352dc07ec6d67a088ffa6533,Calder,Merge-branch-master-of-https-github.com-mrcalder-webwareproject3-back,2014-11-27T15:13:58-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,7f8becffadecde11a4c0e97bd5af83da5bc138de,Ryan,updates-documentation,2014-11-27T15:13:49-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,59c5bdc55f7878d6666e6d0823bf06b6f1f38c91,Baker,Change-port-to-4028,2014-11-27T13:50:02-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,dfde6cd9051ade73899f57df244c557df7cef02d,Ryan,Merge-branch-master-of-https-github.com-mrcalder-webwareproject3-back,2014-11-27T13:45:35-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,3da5a8de67158ad8e8d458057011955fe07ad774,Baker,Bug-fix-for-locations,2014-11-26T23:06:43-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,31281abba9abf0c154132a87ebc09378803b7b3e,Mike,CORS-and-POST-now-working,2014-11-26T22:56:04-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,be553917363ba80d9399f0d16dd80dd72273b887,Calder,fixes-path-problem,2014-11-26T20:54:37-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,88e2370e1e5c958d15938d29861cff9c885b005d,Ryan,Adds-review-functionality-POST-still-not-working,2014-11-26T15:50:10-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,f79343b002903ed9b4cebe8a5b0a19409833b7ca,Baker,Merge-branch-master-of-https-github.com-mrcalder-webwareproject3-back,2014-11-26T15:31:07-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,b4a162dede71b9510e9a6add43aa49ce534f5350,Mike,updates-package.json-as-well-as-adding-documentation,2014-11-26T15:30:55-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,^0.4.9,9f1a672abbbfe4f9cf96f3804a49538f55a44994,Calder,Gets-locations-and-majors-working-as-desired,2014-11-26T15:05:34-05:00,https://github.com/mrcalder/webwareproject3-back,YES
+negotiator,,6710bf13dc2c6955232dc57588a5e2217a0caf1f,Mike,Makes-server-send-back-all-data-at-people,2014-11-25T00:35:43-05:00,https://github.com/mrcalder/webwareproject3-back,NO
+negotiator,,9922794a90793d49794f7fdb9cbfb0470b2ca076,Calder,adds-initial-database.js-file,2014-11-23T00:03:38-05:00,https://github.com/mrcalder/webwareproject3-back,NO
+negotiator,,2ee50cd10586eeea5aec116c998f4f2b5c8fa78f,Ryan,adds-initial-structure-for-database-queries,2014-11-23T00:02:26-05:00,https://github.com/mrcalder/webwareproject3-back,NO
+negotiator,,c94c14c7c3baa61e63678675cceb6d9ff84cb19b,Baker,,,https://github.com/mrcalder/webwareproject3-back,NO

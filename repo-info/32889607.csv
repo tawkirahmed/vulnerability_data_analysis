@@ -1,0 +1,6 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+handlebars,>=0.0.0,6a402f60ce1a6e72cfa5b7de18ef6b514b6355db,Robinson,Merge-pull-request-2-from-solidgoldpig-v1.0.2,2016-01-05T22:18:25+00:00,https://github.com/solidgoldpig/handlebars.el,YES
+handlebars,>=0.0.0,5f9e574561f1bf58da005d9b39b32d124ff4d76b,Alex,Fix-for-https-github.com-solidgoldpig-handlebars.el-issues-1,2016-01-05T22:16:46+00:00,https://github.com/solidgoldpig/handlebars.el,YES
+handlebars,>=0.0.0,240495e24b4328745760d7ad774d79b40c485862,Robinson,Bumped-handlebars.phrase-dependency-to-1.0.4-improved-test-scripts,2015-04-03T21:08:58+01:00,https://github.com/solidgoldpig/handlebars.el,YES
+handlebars,>=0.0.0,4f57f4f7ca17a177f0718d35e08bed425a9a6a8d,Alex,Started-afresh-on-Github,2015-03-25T20:41:14+00:00,https://github.com/solidgoldpig/handlebars.el,YES
+handlebars,>=0.0.0,50d635cb38bd800cc05ee36d3bf063c5ed3d681d,Robinson,,,https://github.com/solidgoldpig/handlebars.el,YES

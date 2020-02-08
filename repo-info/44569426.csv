@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+csv-parse,^1.0.0",786659a3e1df68626c1412b56614df7fe6ffad12,Ribeiro,Adding-package.json,2015-10-26T16:45:25-04:00,https://github.com/mauro0x52/FWKNN,YES
+csv-parse,^1.0.0",ed49bd03d643271b90a47b9bc0ad49e16533c2f1,Mauro,BUGFIX-missing,2015-10-26T16:42:59-04:00,https://github.com/mauro0x52/FWKNN,YES

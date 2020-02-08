@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+knex,^0.17.2,cd68a1f1af65d724acfd6e89ff256af0ebd55014,Silva,,,https://github.com/kodemia/dogAPI,YES

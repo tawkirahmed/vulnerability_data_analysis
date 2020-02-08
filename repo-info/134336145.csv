@@ -1,0 +1,5 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+csv-parse,^1.1.11,5edb966e0e955b6942ccd9c169a2ffc4f0766350,johnnyl-bcit,Update-README.md,2018-05-21T17:11:48-07:00,https://github.com/johnnyl-bcit/bcit-comp4900-ci-dashboard,YES
+csv-parse,^1.1.11,605435e857449cdca8a9186688cb1a25b04db495,johnnyl-bcit,Update-README.md,2018-05-21T17:05:55-07:00,https://github.com/johnnyl-bcit/bcit-comp4900-ci-dashboard,YES
+csv-parse,^1.1.11,fdad2055e2bd0bacce313f0039bd07ba08086105,Johnny,Initial-commit,2018-05-21T16:53:12-07:00,https://github.com/johnnyl-bcit/bcit-comp4900-ci-dashboard,YES
+csv-parse,^1.1.11,17edd0996b6e924ea5fc426e7fa68b5926a2ea93,Lee,,,https://github.com/johnnyl-bcit/bcit-comp4900-ci-dashboard,YES

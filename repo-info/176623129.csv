@@ -1,0 +1,16 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+atob,^2.1.2,39b19237c28cb74bc1582bc8f7e2683545e338a5,Nam,fix-security-vulnerabilities-14,2019-07-19T11:35:24+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,7bcc5e23a3a906ddb46f2630d393f6b8c11ef49e,Jaehyeon,13,2019-07-19T11:29:29+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,3f7b93223953962d1018f412427b39ba1842e2e6,Nam,11,2019-07-09T13:57:57+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,910321ba4b0de565b7830600cd3d644f0232a59a,soohan-webtoon,fix-vulnerabilities-10,2019-07-09T13:46:44+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,1bb33b2b856f218395a722d964d024135ed4e2df,soohan-webtoon,9,2019-07-09T11:58:43+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,377032d20498ff49900ae7d79f2d6e7b82aab58f,Jaehyeon,7,2019-05-07T11:53:31+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,390a6030b2c7ce16f862a876d0d3d6eed7aa1ff2,Nam,travis-ci-8,2019-04-24T11:15:41+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,539c72c72c37a46a4b2da65b27b1242ecb3b337d,soohan-webtoon,4,2019-04-18T15:06:39+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,a9b6ed4052faab86e23dc1a10bcf85d6c189bc1d,Jaehyeon,6,2019-04-18T15:04:58+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,2f316648f2a7fb1f2ae6efc4f07c3872da635e24,Nam,add-test-code,2019-03-27T11:07:19+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,d7bd25c421d357db419a32a063624df8fd2aabd9,Jaehyeon,first-commit,2019-03-26T16:40:16+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,eb3144d063ed7dbf78069f8eb106294c58f2082c,Nam,,2019-03-26T16:31:23+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,e667b7de8f3519dfa93f05bccc66421ab61b1e6a,Jaehyeon,,2019-03-26T16:25:51+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,985ea1ce379c387d4dad0d0d2fb9c9f4dea26c77,Nam,,2019-03-26T11:21:50+09:00,https://github.com/unchai/dosirak-order-bot,YES
+atob,^2.1.2,7426dd45451675c5b5a30bdcc654cce636d6ee12,soohan-webtoon,,,https://github.com/unchai/dosirak-order-bot,YES

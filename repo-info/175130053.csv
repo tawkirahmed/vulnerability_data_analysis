@@ -1,0 +1,7 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+just-extend,>=4.0.0,88f9ec080ff875def8886318e582e526a78f2e2a,Sheka,feat-fix-the-work,2019-03-12T10:00:04+03:00,https://github.com/davojta/figma-extract-text,YES
+just-extend,>=4.0.0,c100c877170403d6b7ce84498bf02a6a489e5611,Dzianis,feat-add-path-to-extract-text,2019-03-12T08:30:22+03:00,https://github.com/davojta/figma-extract-text,YES
+just-extend,>=4.0.0,23f970fc9332da0f914fe09598bc18132b3adfaf,Sheka,feat-add-index.html-with-bootsrap-starter,2019-03-12T08:00:22+03:00,https://github.com/davojta/figma-extract-text,YES
+just-extend,>=4.0.0,325e5945b06d2f835fdec6ee6ce836096f2eae60,Dzianis,fix-start-script,2019-03-12T07:56:01+03:00,https://github.com/davojta/figma-extract-text,YES
+just-extend,>=4.0.0,626b7176db5ad766606ecb4f9689df0314c56b29,Sheka,feat-add-text-extractor,2019-03-12T07:32:39+03:00,https://github.com/davojta/figma-extract-text,YES
+just-extend,>=4.0.0,7c714efffeae946baff63598050639c29a6b5b26,Dzianis,Initial-commit,2019-03-12T06:41:05+03:00,https://github.com/davojta/figma-extract-text,YES

@@ -1,0 +1,4 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+handlebars,^4.0.5,3fef87eb6f4aa0cee985a2c13effe41baaef2002,dtb10,Update-app.js,2016-09-23T13:09:39-05:00,https://github.com/dtb10/-Project2,YES
+handlebars,^4.0.5,88c51557fa5a65bd1328da4d2be021415989939d,dtb10,Add-files-via-upload,2016-09-23T13:07:50-05:00,https://github.com/dtb10/-Project2,YES
+handlebars,^4.0.5,63f15f611880cd343550e7153605f7732a5311a6,dtb10,Create-README.md,2016-09-23T13:01:57-05:00,https://github.com/dtb10/-Project2,YES

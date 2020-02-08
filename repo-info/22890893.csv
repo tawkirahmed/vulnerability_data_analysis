@@ -1,0 +1,11 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+grunt-gh-pages,~0.9.1,f8554f49187c4303d188531e2cfbc5fe8c751a65,Turra,Grunt-e-testes,2014-08-20T13:48:14-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,1827c2923af366e332bc79a2ddbae15a53ad26b2,Octavio,styles,2014-08-20T12:23:11-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,8fde9c14d269512fc3fe7aa366980190c55788b5,Turra,Switch-color-demo,2014-08-20T12:13:09-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,c44922eef28b587105de11df2c6b7c99ca4611c8,Octavio,switch-to-HTML5-color-picker-added-color2color,2014-08-20T12:02:15-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,f66f9e47e0c1d45ea21d4729ccf6b0e0919d4a35,Turra,Color-circle-and-black-level,2014-08-13T14:55:37-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,3e4712d4fa4a04bb3822eff1c4f2076ddb2e04b3,Octavio,Corrections,2014-08-12T18:06:59-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,88b759cab1837040bc51ace401586e54cb9d18c5,Turra,merge,2014-08-12T17:33:11-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,e6e4cbbd660222b5b045279b5a35a98d45cad309,Octavio,Merge-remote-tracking-branch-origin-master,2014-08-12T17:32:41-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,1aac1d631d0a286a7a1afe5a78f3207d4939e3e2,Turra,Initial-commit,2014-08-12T17:29:38-03:00,https://github.com/octavioturra/color-picker,YES
+grunt-gh-pages,~0.9.1,835fb9e2a542b8c052c4a5b51e7d4c608992f819,Octavio,.gitignore-created-by-brackets-git-extension,2014-08-12T17:12:45-03:00,https://github.com/octavioturra/color-picker,YES

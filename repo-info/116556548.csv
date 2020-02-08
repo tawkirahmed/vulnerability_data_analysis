@@ -1,0 +1,3 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+libnmap,^0.4.9,9b1d0e92248b512ded72f3dd7e22d9ad5d78e45a,RedMaps,add-base-files-and-dependencies,2018-01-07T12:41:35+01:00,https://github.com/RedMaps/SmarthomeAPI,YES
+libnmap,,f395c40888bc8342ce6de0be7ea08e3f2186e6a6,Unknown,Initial-commit,2018-01-07T11:31:14+01:00,https://github.com/RedMaps/SmarthomeAPI,NO

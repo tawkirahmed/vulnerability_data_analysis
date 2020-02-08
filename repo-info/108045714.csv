@@ -1,0 +1,13 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+electron-packager,^6.0.0,5e75167e12ee97f42ec085e8f13e674dedacbba9,S.,imagem,2017-10-26T16:57:03-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,6b036744c9886a18ca3a31aa27bda5767ca10d3a,Gaspar,imagem,2017-10-26T14:20:12-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,79a29c52f53ac115e9f008ed4a8050da5c73b80d,Erick,upload,2017-10-25T15:00:57-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,97987115dbe0391a1bf4fd84f10b28a6b23b7164,S.,upload,2017-10-25T14:00:40-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,466b7242c0a29aaaf639913dd6bc97a21395bff3,Gaspar,upload,2017-10-25T13:57:18-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,7ee1817f7cefd05bd16014d6d3cc216725b2ff8c,Erick,Revert-Revert-Revert-Revert-readme,2017-10-24T17:31:00-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,22f5b8b2ea642e50b60e26d9d04289562a940b3f,S.,Revert-Revert-Revert-readme,2017-10-24T14:02:12-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,1ab915e3dec3cbe84d180d7f8e34c2ed99713e20,Gaspar,Revert-Revert-readme,2017-10-24T11:29:21-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,7fae2c3deedbd7677528d148bffa3c656357bc68,Erick,Revert-readme,2017-10-24T11:28:22-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,d9d6167887c6d16fe1085ca46665a7bfb2776210,S.,readme,2017-10-23T20:32:51-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,2b0fb30db3dd550235b7dac57982f4592e51df31,Gaspar,init,2017-10-23T20:16:55-02:00,https://github.com/esgaspar/voluntariosSa,YES
+electron-packager,^6.0.0,19c8c663017250647ff3fb9c85197193cb75f864,Erick,,,https://github.com/esgaspar/voluntariosSa,YES

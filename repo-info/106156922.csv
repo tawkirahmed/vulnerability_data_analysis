@@ -1,0 +1,10 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+samlify,^2.3.2",529f6e03d5908dedc671e8bf392f448043f9b1e5,Manchi,Update-README-with-auth-validation,2017-10-08T15:15:37+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",6b62b4efbfd82191c96e5e2edc287303987c2ebb,Matteo,green_heart-Add-Travis-badge,2017-10-08T10:27:43+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",123dba3a0920560c171520cb730607a2f96c67cc,Manchi,bug-Fix-various-issues,2017-10-08T10:24:26+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",58db617cdb5afb3b333142fa2b9129289ad5ce63,dej611,Merge-pull-request-1-from-Roma-JS-feature-more-tests,2017-10-08T10:20:40+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",b46554d93099b6ad0bc6126bab1eb20341a96c26,dej611,Merge-pull-request-2-from-Roma-JS-feature-travis,2017-10-08T10:18:47+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",8c32da12dbcdefacfec4a4ce81caf04880ef3865,Matteo,construction_worker-Add-TravisCI,2017-10-08T10:13:54+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",0a0d079803e748f63016c1524b8dfe51dd85032c,Manchi,sparkles-Refactor-and-extend-tests,2017-10-08T10:08:53+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",c0bda86718a785a1ef743f73b169b92240a9ea7b,Matteo,First-init,2017-10-08T09:15:44+02:00,https://github.com/Roma-JS/spid-node,YES
+samlify,^2.3.2",72d21f0ed68b281fae0c82fa9cc9bc13f9516b44,Manchi,,,https://github.com/Roma-JS/spid-node,YES
